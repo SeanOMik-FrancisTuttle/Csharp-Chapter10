@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "PhotoDemo/1.0.0": {
+        "runtime": {
+          "PhotoDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PhotoDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

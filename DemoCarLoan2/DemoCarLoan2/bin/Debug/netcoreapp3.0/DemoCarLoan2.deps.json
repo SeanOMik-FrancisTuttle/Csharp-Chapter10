@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "DemoCarLoan2/1.0.0": {
+        "runtime": {
+          "DemoCarLoan2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DemoCarLoan2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

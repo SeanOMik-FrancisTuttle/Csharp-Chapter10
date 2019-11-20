@@ -1,0 +1,11 @@
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter10\PhotoDemo\PhotoDemo\bin\Debug\netcoreapp3.0\PhotoDemo.exe
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter10\PhotoDemo\PhotoDemo\bin\Debug\netcoreapp3.0\PhotoDemo.deps.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter10\PhotoDemo\PhotoDemo\bin\Debug\netcoreapp3.0\PhotoDemo.runtimeconfig.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter10\PhotoDemo\PhotoDemo\bin\Debug\netcoreapp3.0\PhotoDemo.runtimeconfig.dev.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter10\PhotoDemo\PhotoDemo\bin\Debug\netcoreapp3.0\PhotoDemo.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter10\PhotoDemo\PhotoDemo\bin\Debug\netcoreapp3.0\PhotoDemo.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter10\PhotoDemo\PhotoDemo\obj\Debug\netcoreapp3.0\PhotoDemo.csprojAssemblyReference.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter10\PhotoDemo\PhotoDemo\obj\Debug\netcoreapp3.0\PhotoDemo.AssemblyInfoInputs.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter10\PhotoDemo\PhotoDemo\obj\Debug\netcoreapp3.0\PhotoDemo.AssemblyInfo.cs
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter10\PhotoDemo\PhotoDemo\obj\Debug\netcoreapp3.0\PhotoDemo.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter10\PhotoDemo\PhotoDemo\obj\Debug\netcoreapp3.0\PhotoDemo.pdb
